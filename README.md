@@ -1,4 +1,6 @@
-# Prueba Front-end
+# Taller práctico: Front-end
+## LENGUAJE DE PROGRAMACIÓN III (UTIC / FTI / LASI) 2021
+
 La siguiente es una prueba para evaluar conocimientos de **HTML, CSS, JavaScript y diseño Responsive.**
 
 Se busca que cumpla con los requerimientos especificados.
